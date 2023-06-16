@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2021 Sony Corporation
+-->
+<permissions>
+    <feature name="ai.nreal.nebula.service" />
+</permissions>
